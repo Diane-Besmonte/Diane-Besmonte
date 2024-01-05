@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diane Besmonte</h1>
-<h3 align="center">An aspiring web developer who loves self-paced self-studying with different web development technologies.</h3>
+<h3 align="center">An aspiring web developer who loves self-paced learning with different web development technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diane-besmonte&label=Profile%20views&color=0e75b6&style=flat" alt="diane-besmonte" /> </p>
 
