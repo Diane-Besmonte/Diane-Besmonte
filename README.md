@@ -21,12 +21,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Diane-Besmonte/count.svg?"  />
-</div>
-
-###
-
 <h1 align="center">Hey There! 👋</h1>
 
 ###
